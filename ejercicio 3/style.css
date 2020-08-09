@@ -1,0 +1,69 @@
+body
+
+.bandera {
+   width: 500px; 
+   height: 300px;
+   margin: 20px;
+   float: left;
+   border:1px solid #000;
+}
+
+
+.Esp1{
+    background-color: red;
+    height: 25%;
+}
+.Esp2{
+    background-color: yellow;
+    height: 50%;
+}
+.Esp3{
+    background-color: red;
+    height: 25%;
+}
+
+.Din1{
+    background-color: red;
+    height: 45%;
+}
+.Din2{
+    background-color: white;
+    width: 10%;
+    position: absolute;
+}
+.Din3{
+    background-color: white;
+    height: 10%;
+}
+.Din4{
+    background-color: red;
+    height: 45%;
+}
+
+.Em1{
+    background-color: green;
+    height: 33.3%;
+}
+.Em2{
+    background-color: white;
+    height: 33.3%;
+}
+.Em3{
+    background-color: black;
+    height: 33.3%;
+}
+
+.Ja1{
+    background-color: white;
+    height: 33.3%;
+}
+
+.Ja2 {
+    background-color: red;
+    height: 33.3%;  
+}
+
+.Ja3 {
+    background-color: white;
+    height: 33.3%;
+}
